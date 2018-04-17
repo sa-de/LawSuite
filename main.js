@@ -41,16 +41,18 @@
 						images: {
 							'./img/b01.jpg': 'center',
 							'./img/b02.jpg': 'center',
-							'./img/b03.jpg': 'center',
-							'./img/b04.jpg': 'center',
-							'./img/b05.jpg': 'center',
+							//'./img/b03.jpg': 'center',
+							//'./img/b04.jpg': 'center',
+							//'./img/b05.jpg': 'center',
 							'./img/b06.jpg': 'center',
-							'./img/b07.jpg': 'center',
-							'./img/b08.jpg': 'center'
+							//'./img/b07.jpg': 'center',
+							'./img/b08.jpg': 'center',
+							'./img/b09.jpg': 'center',
+							'./img/b10.jpg': 'center'
 						},
 
 					// Delay.
-						delay: 10000
+						delay: 8000
 
 				};
 
